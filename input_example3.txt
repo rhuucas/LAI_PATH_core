@@ -1,0 +1,5 @@
+0.1015		% P_canopy, Gap fraction inside canopy (after removing large gaps)
+0.0		% P_large, Gap fraction of large gaps (=0 if large gaps are not removed) LAI = LAI_canopy * (1 - P_large)
+60		% Observing zenith angle (degree)
+0.5		% G function
+0		% Mode: (1) "Mode" < 0: input path lengths below, (2) "Mode" > 0, input Path length distribution below, "Mode" is the number of bins (3) "Mode"=0, ellipse assumption

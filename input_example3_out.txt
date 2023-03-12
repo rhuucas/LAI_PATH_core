@@ -1,0 +1,12 @@
+
+Input:
+Zenith angle:	60.0
+G:		0.5
+Gap fraction of large gaps:	0.0000
+Gap fraction inside canopy:	0.1015
+Effective LAI (LAIe) = 2.2877
+
+Input mode of path length distribution: no input, ellipse assumption (0)
+
+Result: LAI_PATH = 2.65		Clumping Index = 0.863
+
